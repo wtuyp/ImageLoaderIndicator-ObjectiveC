@@ -1,6 +1,7 @@
-# ImageLoaderIndicator-OC
+# ImageLoaderIndicator
 ImageLoaderIndicator Objective-C Version
 
+##ImageLoaderIndicator学习教程
 ###How To Implement A Circular Image Loader Animation with CAShapeLayer
 http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer
 
